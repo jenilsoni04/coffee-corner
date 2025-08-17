@@ -1,7 +1,12 @@
-Got it ✅ Since your **coffee-corner** repo is just a small project to understand **SEO, sitemap, and how SEO works**, here’s a clean **README.md** you can copy-paste into your repo:
+Perfect 🙌 I’ve updated your **README.md** with the **🌍 Live Demo** section added at the top. Here’s the full polished version:
 
 ```markdown
 # ☕ Coffee Corner – SEO Learning Project
+
+## 🌍 Live Demo
+🔗 [View Website on GitHub Pages](https://jenilsoni04.github.io/coffee-corner/)
+
+---
 
 This project was created as a hands-on exercise to understand **Search Engine Optimization (SEO)** concepts, **sitemaps**, and how search engines crawl and index websites.  
 
@@ -61,7 +66,9 @@ index.html
 
 ## 📜 Learning Outcome
 
-This project was created to **practice SEO fundamentals** in a small-scale website before applying them to larger projects. It helped me understand how:
+This project was created to **practice SEO fundamentals** in a small-scale website before applying them to larger projects.
+
+It helped me understand how:
 
 * Search engines crawl websites.
 * `robots.txt` controls crawler behavior.
@@ -74,7 +81,5 @@ This project was created to **practice SEO fundamentals** in a small-scale websi
 
 ```
 
----
-
-Would you like me to also add a **GitHub Pages deployment link section** (so people can click and see your site live once Pages works)?
+Would you like me to also add a **✨ Features** section (listing what the project includes, like multiple pages, internal linking, robots.txt, sitemap.xml, media file test, etc.) to make it even more complete?
 ```
